@@ -1,1 +1,1 @@
-# Quali
+# Qualidade de Software
